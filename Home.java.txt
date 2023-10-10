@@ -2,8 +2,5 @@ public class Home{
 
 System.out.println("Akash Site");
 
-public static void Account(String name){
-
-}
 
 }
