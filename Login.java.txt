@@ -1,4 +1,7 @@
 public class UserData{
 
 String name="Akash";
+//one variable create
+public void m1(){
+}
 }
