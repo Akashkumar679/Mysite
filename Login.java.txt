@@ -1,7 +1,12 @@
 public class UserData{
 
 String name="Akash";
+<<<<<<< Updated upstream
 //one variable create
 public void m1(){
+=======
+//add one more method
+pubilc void user(){
+>>>>>>> Stashed changes
 }
 }

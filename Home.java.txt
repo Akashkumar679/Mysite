@@ -1,6 +1,8 @@
 public class Home{
 
 System.out.println("Akash Site");
+pubilc void adduser(){
+}
 
 
 }
